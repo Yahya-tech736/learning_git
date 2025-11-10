@@ -1,14 +1,14 @@
 ---
 title: "A few of my favorite things"
-author: "Alex Hurtado Desaulniers"
+author: "Yahya Salama"
 output: html_notebook
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+ - Anime
+ - Video games
+ - Hanging out with friends
+ - Making outfits and shopping
 
-🍴
+🐴
